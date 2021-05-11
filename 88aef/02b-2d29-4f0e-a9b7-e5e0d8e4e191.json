@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 6048,
+    "analysis_type": "air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "624b1502174d10aa65faf67c3319c7435d3077cf",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "AX": {
+            "deflection": 150.0,
+            "gain": 1.0
+        },
+        "CDD": {
+            "deflection": 130.0,
+            "gain": 0.0
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "L1": {
+            "deflection": 252.380952380952,
+            "gain": 1.0
+        },
+        "L2": {
+            "deflection": 600.0,
+            "gain": 1.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "SH_mus_generic_9step_2425",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_Air_(no_split)_pump_to_Turbo.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "a-01-A",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 1,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Argus",
+    "material": "Gas",
+    "measurement": "argus_air.py",
+    "post_equilibration": "argus_pump_air_to_Turbo.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "UManLab",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Argus_air191",
+    "rlocation": "",
+    "sample": "air",
+    "source": {
+        "emission": 607.158,
+        "trap": 198.595
+    },
+    "spec_sha": "a0a065b44f725b2638901f56914ed032277bedd5",
+    "timestamp": "2021-05-11T16:00:36.840894",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "88aef02b-2d29-4f0e-a9b7-e5e0d8e4e191",
+    "whiff_result": null
+}
