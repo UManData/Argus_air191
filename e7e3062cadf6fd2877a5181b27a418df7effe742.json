@@ -1,0 +1,40 @@
+{
+    "deflections": {
+        "AX": 150.0,
+        "CDD": 160.0,
+        "H1": 0.0,
+        "H2": 0.0,
+        "L1": 330.15873015873,
+        "L2": 600.0
+    },
+    "gains": {
+        "AX": 1.0,
+        "CDD": 0.0,
+        "H1": 0.950171223193251,
+        "H2": 0.970216234531801,
+        "L1": 1.0,
+        "L2": 1.0
+    },
+    "settings": {
+        "deflection": {
+            "AX": 150.0,
+            "CDD": 130.0,
+            "H1": 0.0,
+            "H2": 0.0,
+            "L1": 330.0,
+            "L2": 600.0
+        },
+        "magnet": {},
+        "source": {
+            "electronenergy": 84.41,
+            "extractionlens": 12.74,
+            "ionrepeller": -3.72,
+            "operatingvoltage": 2198.7,
+            "ysymmetry": -7.79,
+            "zfocus": 79.0,
+            "zsymmetry": 11.01
+        },
+        "trap": {}
+    },
+    "spectrometer": {}
+}
